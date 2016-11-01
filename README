@@ -15,13 +15,13 @@ What works
 	History
 	Subshells
 	Variable prompt
+	Path completion
+	Ctrl-Z
+	bg
+	fg
 
 What does not work
 	.shellrc
 	${?} variable expansion
 
-Extra Features
-	Path completion
-	Ctrl-Z
-	bg
-	fg
+	
