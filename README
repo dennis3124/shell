@@ -1,0 +1,27 @@
+What works
+	Simple command process creation and execution
+	File redirection
+	Pipes
+	Ctrl-C
+	Exit
+	Builtins
+	Wildcarding
+	Zombie Elimination
+	Quotes
+	Escaping
+	Environment variable expansion
+	Tilde expansion
+	Edit mode
+	History
+	Subshells
+	Variable prompt
+
+What does not work
+	.shellrc
+	${?} variable expansion
+
+Extra Features
+	Path completion
+	Ctrl-Z
+	bg
+	fg
